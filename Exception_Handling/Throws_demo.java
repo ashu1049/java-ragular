@@ -5,7 +5,7 @@ public class Throws_demo {
 
         FileReader fr = new FileReader("C:\\user\\desktop\\abc.txt");
 
-        throw new FileNotFoundException();
+        throw new FileNotFoundException("hi");
     }
 
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ public class multi_catch {
         System.out.println("start.");
         try{
             int[] a=new int[5];
-            a[4]=100/10;
+            a[7]=100/10;
 
             
         }
