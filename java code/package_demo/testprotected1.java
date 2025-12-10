@@ -1,5 +1,5 @@
-package package2;
-import package1.protecteddemo;
+package package_demo;
+import package_demo.protecteddemo;
 
 class testprotected1 extends protecteddemo
 {

@@ -1,6 +1,6 @@
-package package1;
+package package_demo;
 
-public class student1
+public class student
 {
 	private int id;
 	private String name;

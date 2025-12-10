@@ -1,4 +1,5 @@
-import package1.student1;
+package package_demo;
+import package_demo.student1;
 
 class teststudent
 {

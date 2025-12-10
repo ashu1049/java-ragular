@@ -1,4 +1,4 @@
-package package2;
+package package_demo;
 
 public class demo2{
 

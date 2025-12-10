@@ -10,12 +10,12 @@ class student1
 	}
 	public void setname(String name)
 	{
-		this.id=id;
+		this.name=name;
 	}
 
 	public void setcity(String city)
 	{
-		this.id=id;
+		this.city=city;
 	}
 
 	public int getid()
@@ -23,12 +23,12 @@ class student1
 		return id;
 	}
 
-	public int getname()
+	public String getname()
 	{
 		return name;
 	}
 
-	public int getcity()
+	public String getcity()
 	{
 		return city;
 	}

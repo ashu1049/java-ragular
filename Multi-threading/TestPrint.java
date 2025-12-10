@@ -26,7 +26,7 @@ class MyThread1 extends Thread {
     }
 
     public void run() {
-        d.print_message(s);
+        
     }
 }
 

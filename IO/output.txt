@@ -1,0 +1,4 @@
+I like to travel India
+I love to live in pune
+
+Explore the diff. methods of console class and writer and reader classes, try to prepare ex. also.

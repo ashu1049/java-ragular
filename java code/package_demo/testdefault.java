@@ -1,5 +1,5 @@
-package packege2;
-import package1.defaultdemo;
+package package_demo;
+import package_demo.defaultdemo;
 
 class testdefault
 {

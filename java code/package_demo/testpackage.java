@@ -1,5 +1,6 @@
-import package1.demo1;
-import package2.demo2;
+package package_demo;
+import package_demo.demo1;
+import package_demo.demo2;
 
 class testpackage
 {

@@ -4,7 +4,7 @@ public class ThrowDemo {
     {
         if (age < 18)
         {
-            throw new Validate_Exception("person is not Allowed to vote.")
+            throw new ArithmeticException("person is not Allowed to vote.");
         }
         else
         {
